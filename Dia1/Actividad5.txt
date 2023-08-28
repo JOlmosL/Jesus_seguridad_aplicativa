@@ -1,0 +1,50 @@
+¿Que es una Red?
+Es un conjunto de dispositivos electronicos que se comunican entre ellos.
+
+¿Que es el modelo TCP/IP?
+Es un protocolo de direccionamiento que permite asignar el puerto de interno (direccipon? de un dispositivo dentro de la red.
+
+¿Qué es una IP?
+Es una dirección que identifica a un dispositivo dentro de la red (Internal port)
+
+¿Qué es el protocolo TCP?
+Es un protocolo de direccionamiento que permite la comunicación entre dispositivos
+
+Dentro del protocolo TCP, ¿Qué es el protocolo HTTP?
+Es aquel que permite que el servidor se comunique con sus usuarios a traves de la entrada de Hyper text
+
+Puerto del protocolo HTTP:
+44
+
+Puerto del protocolo HTTPS: 
+
+
+¿Cual es la diferencia entre HTTP y HTTPS?
+Al utilizar la S, estamos estableciendo que este es más seguro (secure). Se supone que http te permite ver, por asi decirlo, todo el contenido en texto de una página sin que se encuentre protegido.
+
+¿Qué significa el Modelo Cliente - Servidor?
+Que dado un Cliente en su dispositivo, este es capaz de interactuar directamente con un servidor establecido y visceverza.
+
+¿Que es una petición (Request)?
+Es una solicitud que se realiza desde el lado del cliente hacia un servidor para que este nos proporcione una diversidad de cosas, como GET, POST, UPDATE, DELETE
+
+¿Qué es una respuesta (Response)?
+Es lo que contesta un servidor a una petición por parte de un cliente, varían entre numeros pero todos ellos tienen un significado concreto.
+
+Secciones de una petición:
+GET; POST; UPDATE; DELETE
+
+Secciones de una response:
+Están los codigos de acepatación, bloque de los de 200; los de error 400, los 500, etc...
+
+¿El codigo de respuesta 404 y 500 a que se refiere?
+404 significa error, no encontrado. El 500 es falta de permisos
+
+Lenguajes de programación del lado del servidor (Back end)
+Python, Java, c++, php, ruby, html
+
+Lenguajes de programación del lado del servidor (Front end)
+HTML, CSS, Javascript
+
+¿Que es Burp Suite?
+Es un software que se encarga de obtener información diversificada a partir de una petición.
