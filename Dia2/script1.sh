@@ -1,1 +1,1 @@
-sudo adduser $1
+sudo adduser $1;
