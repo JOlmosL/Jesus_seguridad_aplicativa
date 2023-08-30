@@ -16,7 +16,6 @@ def reprobaron(lista):
     
 def main():
     lista = [8, 9, 10, 6, 6, 7, 8, 9, 5, 6, 7, 6, 8, 8, 9, 9, 5, 6, 7, 9, 10, 7, 8, 9, 9]
-    print(type(lista[1]))
     prom = promedio(lista)
     reprobados = reprobaron(lista)
     print("El promedio de los alumnos es de:", prom)
